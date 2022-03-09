@@ -1,0 +1,9 @@
+header {
+  font-size: 20px;
+  justify-content: space-between;
+  padding: 20px 50px;
+}
+
+.total-price {
+  color: red;
+}

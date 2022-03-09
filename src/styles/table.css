@@ -1,0 +1,38 @@
+table {
+  border: 1px solid black;
+  margin: 40px auto;
+  text-align: center;
+}
+
+thead {
+  background-color: rgb(21, 126, 100);
+}
+
+th {
+  background-color: rgb(21, 126, 100);
+  color: white;
+  font-weight: 700;
+  height: 40px;
+  width: 140px;
+}
+
+td {
+  font-size: 15px;
+  max-width: 120px;
+}
+
+.delete-btn {
+  background-color: red;
+  cursor: pointer;
+  height: 30px;
+  width: 40px;
+}
+
+.edit-btn {
+  background-color: gray;
+  color: black;
+  cursor: pointer;
+  height: 30px;
+  margin: 4px;
+  width: 40px;
+}

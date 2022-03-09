@@ -1,0 +1,17 @@
+.login-form {
+  align-items: center;
+  background-color: rgb(38, 40, 70);
+  border: 1px solid;
+  border-radius: 10px;
+  gap: 8px;
+  height: 300px;
+  justify-content: center;
+  margin: 100px auto;
+  width: 38rem;
+}
+
+.login-input {
+  font-size: 18px;
+  height: 30px;
+  width: 300px;
+}

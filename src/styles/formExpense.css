@@ -1,0 +1,15 @@
+.form-expense {
+  align-items: center;
+  gap: 15px;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.save-btn {
+  font-size: 14px;
+  height: 30px;
+  width: 150px;
+}
